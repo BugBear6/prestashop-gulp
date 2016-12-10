@@ -2,7 +2,12 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-> Gulp config to compile sass, js and to deploy for Prestashop project
+> Gulp config to compile sass, js and to deploy for Prestashop project.
+> It uses LibSass, BrowserSync.
+> Allow to edit files with an automatic browser reloading
+
+
+
 
 ## Install
 
@@ -12,7 +17,8 @@ npm install
 ```
 or
 ```sh
-- yarn
+git clone 
+yarn
 ```
 
 Change information for deploy task in gulpfile.js with your ftp host, user and password
@@ -26,7 +32,7 @@ gulp
 
 For a FTP update :
 ```sh
-- gulp deploy : for a FTP update
+gulp deploy
 ```
 
 ## Contribute
