@@ -35,12 +35,6 @@ For a FTP update :
 gulp deploy
 ```
 
-## Contribute
-
-PRs accepted.
-
-Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
 ## License
 
 MIT © Kevin Hoste
