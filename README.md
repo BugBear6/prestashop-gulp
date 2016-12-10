@@ -3,8 +3,8 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > Gulp config to compile sass, js and to deploy for Prestashop project.
-> It uses LibSass, BrowserSync.
-> Allow to edit files with an automatic browser reloading
+
+> Allow to edit files with an automatic browser reloading, it uses LibSass, BrowserSync.
 
 
 
